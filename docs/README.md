@@ -3,16 +3,17 @@
 </p>
 
 <p align="center">
-  <b>I don’t chase perfect, I chase what works.</b><br>
-  Trial, error, rebuild, repeat.<br>
-  If it’s broken, I’ll fix it, even if it’s just a light in the dark.<br>
-  This journey isn’t polished, it’s patched, tested, and running.<br>
-  <i>That’s the voyage in search of new creation. It's all a trip</i>
+  <b><span style="color:#00bfff;">I don’t chase perfect,</span> <span style="color:#ffd700;">I chase what works.</span></b><br>
+  <span style="color:#b0c4de;">Trial, error, rebuild, repeat!</span><br>
+  <span style="color:#87cefa;">If it’s broken, I’ll fix it, even if it’s just a light in the dark.</span><br>
+  <span style="color:#dcdcdc;">This journey isn’t polished, it’s patched, tested, and running.</span><br>
+  <i><span style="color:#f0e68c;">That’s the voyage in search of new creation. It’s all a trip.</span></i>
 </p>
 
 <p align="center">
-  <sub><i>Reise (pronounced REZ-uh) — German for Voyage, Journey, or Trip. Some names you earn by living them or evolving into them!</i></sub>
+  <sub><i><span style="color:#a9a9a9;">Reise (pronounced REZ-uh) — German for voyage, journey, or trip. Some names you earn by living them or evolving into them.</span></i></sub>
 </p>
+
 
 
 
