@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="beaut.2.jpg.jpg" alt="Beautiful Digital Journey" width="100%">
+  <img src="beaut.2.jpg" alt="Beautiful Digital Journey" width="100%">
 </p>
 
 <p align="center">
