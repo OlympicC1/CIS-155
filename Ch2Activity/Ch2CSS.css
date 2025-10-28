@@ -1,26 +1,42 @@
-body { 
+body {
   background: #FFF;
-  text-align: center; 
+  text-align: center;
+  font: normal 18px/1.6 "Helvetica", Arial, sans-serif;
+  color: #464646;
+  margin: 0 auto;
 }
-p { 
-  font: normal 18px/1.6 "Helvetica", Arial, sans-serif; 
-  color: #464646; 
+
+/* 👇 Add this to kill the bullet mess */
+ul {
+  list-style-type: none;
+  padding: 0;
+  margin: 0;
 }
-.id { 
-  margin-bottom: 15px; 
+
+h1, h2 {
+  margin-top: 20px;
+  color: #222;
 }
-#class { 
-  line-height: 1.1; 
-  font-family: "Roboto Slab", serif; 
-  font-weight: 300; 
+
+.id {
+  margin-bottom: 15px;
 }
-#img { 
+
+.class {
+  line-height: 1.1;
+  font-family: "Roboto Slab", serif;
+  font-weight: 300;
+}
+
+#img {
   border: none;
 }
-.org { 
-  color: #54ba6a; 
-  text-decoration: underline; 
+
+.org {
+  color: #54a6a8;
+  text-decoration: underline;
 }
-.org a { 
-  color: #68c6b8; 
+
+.org a {
+  color: #86c6d8;
 }
