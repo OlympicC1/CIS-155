@@ -1,24 +1,38 @@
 # CIS-155 Web Projects
 
-This repository contains all of my coursework for the CIS-155 Web Development class at Olympic College.  
-Each assignment is stored in its own folder so everything remains organized, modular, and easy to review.
+This repository contains all coursework completed for the CIS-155 Web Development class at Olympic College.  
+Each assignment is organized in its own folder to maintain a clean and modular structure.
 
 ---
 
-### 🌐 Live GitHub Pages Links
+## Live GitHub Pages Links
 
 | Project | Description | Live Site |
 |----------|--------------|-----------|
-| **ALWAYS** | Module 3 Project – “In Loving Memory of My Mother” | [View Site](https://olympicc1.github.io/CIS-155/ALWAYS/) |
+| **ALWAYS** | Module 3 Project | [View Site](https://olympicc1.github.io/CIS-155/ALWAYS/) |
+| **Ch2Activity** | Chapter 2 Assignment | [View Site](https://olympicc1.github.io/CIS-155/Ch2Activity/) |
+| **Ch3Activity** | Chapter 3 Assignment | [View Site](https://olympicc1.github.io/CIS-155/Ch3Activity/) |
+| **Chapter 3, Part 2 Exercise Code** | Additional Practice Work | [View Site](https://olympicc1.github.io/CIS-155/Chapter%203,%20Part%202%20Exercise%20Code/) |
 
 ---
 
-### 🧭 How to View My Work
-- Open any folder in the repository to view the source files for that assignment.  
-- Each project includes an `index.html` file that can be opened in a browser.  
-- Only folders with a valid `index.html` appear as working live links above.  
+## Viewing Instructions
+
+- Navigate to any folder to access the project source files.  
+- Each assignment contains an `index.html` file that can be opened directly in a browser.  
+- Use the links above to access the deployed versions on GitHub Pages.
+
+---
+
+## Repository Overview
+
+- `ALWAYS` – Module 3 Project  
+- `Ch2Activity` – Chapter 2 Assignment  
+- `Ch3Activity` – Chapter 3 Assignment  
+- `Chapter 3, Part 2 Exercise Code` – Additional Practice Work  
+- `docs` – Supporting Materials  
 
 ---
 
 © 2025 Crystal Lyn Reise  
-*All projects created for CIS-155 Web Development (Olympic College).*
+_All projects created for CIS-155 Web Development, Olympic College._
