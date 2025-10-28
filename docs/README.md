@@ -1,22 +1,16 @@
-|CIS-155 Web Projects|
+# CIS-155 Web Projects
 
----> This repository contains all of my coursework for the CIS-155 Web Development class. Each assignment is stored in its own folder so everything remains organized and easy to review.
+This repository contains all of my coursework for the CIS-155 Web Development class at Olympic College.  
+Each assignment is stored in its own folder so everything remains organized, modular, and easy to review.
 
-~ How to view my work:
+---
 
-----> Open any folder in the repository to see the files used for that assignment.
+### 🌐 Live GitHub Pages Links
 
-~ Most assignments include an index.html file that can be opened directly in a browser to view the webpage.
-
-~ The main index.html in the root of the repository is the page currently published on the live site.
-
-Repository contents:
-* Ch2Activity - Chapter 2 assignment
-* Ch3Activity - Chapter 3 assignment
-* Chapter 3, Part 2 Exercise Code - Additional practice work
-* index.html - The page currently displayed on the live website
-* Docs - Extra supporting files
-
-# This repository will continue to be updated as we move through the course so that all assignments remain together in one place and can be accessed easily for review, grading, and reference.
-
-To be continued...
+| Project | Description | Live Site |
+|----------|--------------|------------|
+| **ALWAYS** | Module 3 Project – “In Loving Memory of My Mother” | [View Site](https://olympicc1.github.io/CIS-155/ALWAYS/) |
+| **Ch2Activity** | Chapter 2 Assignment | [View Site](https://olympicc1.github.io/CIS-155/Ch2Activity/) |
+| **Ch3Activity** | Chapter 3 Assignment | [View Site](https://olympicc1.github.io/CIS-155/Ch3Activity/) |
+| **Chapter 3, Part 2 Exercise Code** | Additional Practice Work | [View Site](https://olympicc1.github.io/CIS-155/Chapter%203,%20Part%202%20Exercise%20Code/) |
+| **Docs Folder** | Extra Supporting Files | *(No l*
