@@ -1,42 +1,37 @@
+/* RESET EVERYTHING THAT SPAWNS BULLETS */
+ul, li {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+}
+
+/* CLEAN, BASIC LAYOUT */
 body {
-  background: #FFF;
+  background: #fff;
   text-align: center;
   font: normal 18px/1.6 "Helvetica", Arial, sans-serif;
-  color: #464646;
-  margin: 0 auto;
-}
-
-/* 👇 Add this to kill the bullet mess */
-ul {
-  list-style-type: none;
-  padding: 0;
-  margin: 0;
-}
-
-h1, h2 {
-  margin-top: 20px;
   color: #222;
+  margin: 50px auto;
+  width: 80%;
 }
 
-.id {
-  margin-bottom: 15px;
+/* TYPOGRAPHY */
+h1, h2 {
+  color: #111;
+  margin-bottom: 10px;
 }
 
-.class {
-  line-height: 1.1;
-  font-family: "Roboto Slab", serif;
-  font-weight: 300;
+a {
+  color: #0044cc;
+  text-decoration: none;
 }
 
-#img {
-  border: none;
-}
-
-.org {
-  color: #54a6a8;
+a:hover {
   text-decoration: underline;
 }
 
-.org a {
-  color: #86c6d8;
+footer {
+  margin-top: 40px;
+  color: #555;
+  font-size: 0.9em;
 }
