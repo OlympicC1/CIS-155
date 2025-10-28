@@ -1,3 +1,25 @@
+<p align="center">
+  <img src="beaut.2.jpg.jpg" alt="Beautiful Digital Journey" width="100%">
+</p>
+
+<p align="center">
+  <b>I don’t chase perfect, I chase what works.</b><br>
+  Trial, error, rebuild, repeat.<br>
+  If it’s broken, I’ll fix it, even if it’s just a light in the dark.<br>
+  This journey isn’t polished, it’s patched, tested, and running.<br>
+  <i>That’s the voyage in search of new creation. It's all a trip</i>
+</p>
+
+<p align="center">
+  <sub><i>Reise (pronounced REZ-uh) — German for Voyage, Journey, or Trip. Some names you earn by living them or evolving into them!</i></sub>
+</p>
+---
+
+
+
+
+
+
 # CIS-155 Web Projects
 
 This repository contains all coursework completed for the **CIS-155 Web Development** class at **Olympic College**.  
