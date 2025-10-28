@@ -13,7 +13,6 @@
 <p align="center">
   <sub><i>Reise (pronounced REZ-uh) — German for Voyage, Journey, or Trip. Some names you earn by living them or evolving into them!</i></sub>
 </p>
----
 
 
 
