@@ -2,9 +2,6 @@
 
 ---> This repository contains all of my coursework for the CIS-155 Web Development class. Each assignment is stored in its own folder so everything remains organized and easy to review.
 
-## The live website for this course work can be viewed here @:
---> https://olympicc1.github.io/CIS-155/
-
 ~ How to view my work:
 
 ----> Open any folder in the repository to see the files used for that assignment.
