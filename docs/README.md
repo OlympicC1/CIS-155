@@ -1,6 +1,7 @@
 # CIS-155 Web Projects
 
-![Beautiful Banner](./beaut.2.jpg)
+![Beautiful Banner](./beaut.2.jpg)  
+![Tagline](./tagline.svg)
 
 This repository contains all coursework completed for the **CIS-155 Web Development** class at **Olympic College**.  
 Each assignment is organized in its own folder for clarity and version control.
@@ -19,4 +20,5 @@ Each assignment is organized in its own folder for clarity and version control.
 
 ---
 
-![Tagline](./t)
+© 2025 **Crystal Lyn Reise**  
+*“We are the ArchiTechs of the Digital Frontier.”*
