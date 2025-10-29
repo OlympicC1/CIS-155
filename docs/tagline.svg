@@ -40,31 +40,31 @@
      filter="url(#softGlow)">
 
     <!-- Base gold text -->
-    <text x="690" y="60" fill="url(#baseGold)">I don’t chase perfect!</text>
-    <text x="690" y="95" fill="url(#baseGold)">I chase what works!</text>
-    <text x="690" y="130" fill="url(#baseGold)">Trial, error, rebuild, repeat!</text>
-    <text x="690" y="165" fill="url(#baseGold)">If it’s broken, I’ll fix it!</text>
-    <text x="690" y="190" fill="url(#baseGold)">Even if it’s just a light in the dark!</text>
-    <text x="690" y="225" fill="url(#baseGold)">This journey isn’t polished; it’s patched, tested, and running!</text>
-    <text x="690" y="260" fill="url(#baseGold)" font-style="italic">
-      That’s the voyage in search of new creation. It’s all a trip!
+    <text x="700" y="60" fill="url(#baseGold)">I don’t chase perfect!</text>
+    <text x="700" y="95" fill="url(#baseGold)">I chase what works!</text>
+    <text x="700" y="130" fill="url(#baseGold)">Trial, error, rebuild, repeat!</text>
+    <text x="700" y="165" fill="url(#baseGold)">If it’s broken, I’ll fix it!</text>
+    <text x="700" y="185" fill="url(#baseGold)">Even if it’s just a light in the dark!</text>
+    <text x="700" y="220" fill="url(#baseGold)">This journey isn’t polished! It’s patched, tested, and running!</text>
+    <text x="700" y="255" fill="url(#baseGold)" font-style="italic">
+      That’s the voyage in search of new creation! It’s all a trip!
     </text>
-    <text x="690" y="310" fill="url(#baseGold)" font-size="22">
-      Reise (pronounced REZ-uh) * German for voyage, journey, or trip. Some names you earn by living them or evolving into them!
+    <text x="700" y="305" fill="url(#baseGold)" font-size="22">
+      Reise (pronounced REZ-uh) * German for voyage, journey, or trip! Some names you earn by living them or evolving into them!
     </text>
 
     <!-- Animated highlight overlay -->
-    <text x="690" y="60" fill="url(#highlight)">I don’t chase perfect!</text>
-    <text x="690" y="95" fill="url(#highlight)">I chase what works!</text>
-    <text x="690" y="130" fill="url(#highlight)">Trial, error, rebuild, repeat!</text>
-    <text x="690" y="165" fill="url(#highlight)">If it’s broken, I’ll fix it!</text>
-    <text x="690" y="190" fill="url(#highlight)">Even if it’s just a light in the dark!</text>
-    <text x="690" y="225" fill="url(#highlight)">This journey isn’t polished; it’s patched, tested, and running!</text>
-    <text x="690" y="260" fill="url(#highlight)" font-style="italic">
-      That’s the voyage in search of new creation. It’s all a trip!
+    <text x="700" y="60" fill="url(#highlight)">I don’t chase perfect!</text>
+    <text x="700" y="95" fill="url(#highlight)">I chase what works!</text>
+    <text x="700" y="130" fill="url(#highlight)">Trial, error, rebuild, repeat!</text>
+    <text x="700" y="165" fill="url(#highlight)">If it’s broken, I’ll fix it!</text>
+    <text x="700" y="185" fill="url(#highlight)">Even if it’s just a light in the dark!</text>
+    <text x="700" y="220" fill="url(#highlight)">This journey isn’t polished! It’s patched, tested, and running!</text>
+    <text x="700" y="255" fill="url(#highlight)" font-style="italic">
+      That’s the voyage in search of new creation! It’s all a trip!
     </text>
-    <text x="690" y="310" fill="url(#highlight)" font-size="22">
-      Reise (pronounced REZ-uh) * German for voyage, journey, or trip. Some names you earn by living them or evolving into them!
+    <text x="700" y="305" fill="url(#highlight)" font-size="22">
+      Reise (pronounced REZ-uh) * German for voyage, journey, or trip! Some names you earn by living them or evolving into them!
     </text>
   </g>
 </svg>
