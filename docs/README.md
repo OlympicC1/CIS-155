@@ -1,6 +1,9 @@
 <p align="center">
   <img src="../beaut.2.jpg" alt="Beautiful Digital Journey" width="1000">
 </p>
+<p align="center">
+  <img src="assets/tagline.svg" alt="Signature Tagline Animation" width="100%">
+</p>
 
 <br>
 
