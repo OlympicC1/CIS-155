@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <img src="assets/tagline.svg" alt="Signature Tagline Animation" width="100%">
+  <img src="tagline.svg" alt="Signature Tagline Animation" width="100%">
 </p>
 
 <hr style="width:60%;border:0;border-top:1px solid #444;margin:20px auto;">
