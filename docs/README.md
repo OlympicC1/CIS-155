@@ -3,32 +3,54 @@
 </p>
 
 <p align="center">
-  <img src="tagline.svg?v=4" alt="Signature Tagline Animation" width="1000%">
+  <img src="tagline.svg" alt="Signature Tagline Animation" width="1000%">
 </p>
 
-<hr style="width:60%;border:0;border-top:1px solid #444;margin:25px auto;">
+---
 
 <h2 align="center">CIS-155 Web Projects</h2>
 
 <p align="center">
-  <b><i>This repository contains all coursework completed for the CIS-155 Web Development class at Olympic College.
-  Each assignment resides in its own folder for clarity, modularity, and version control consistency.</i></b>
+  <i><b>This repository contains all coursework completed for the CIS-155 Web Development class at Olympic College.</b><br>
+  Each assignment resides in its own folder for clarity, modularity, and version-control consistency.</i>
 </p>
 
+---
 
+<table align="center">
+  <tr>
+    <th>Project</th>
+    <th>Description</th>
+    <th>Live Page</th>
+  </tr>
+  <tr>
+    <td><b>Ch2Activity</b></td>
+    <td>Chapter 2 Assignment</td>
+    <td><a href="https://olympicc1.github.io/CIS-155/Ch2Activity/" target="_blank">View Site</a></td>
+  </tr>
+  <tr>
+    <td><b>ALWAYS</b></td>
+    <td>Module 3 Project</td>
+    <td><a href="https://olympicc1.github.io/CIS-155/ALWAYS/" target="_blank">View Site</a></td>
+  </tr>
+  <tr>
+    <td><b>Ch2createWebDude</b></td>
+    <td>Module 3 Extension — “Web Dude” Site</td>
+    <td><a href="https://olympicc1.github.io/CIS-155/Ch2createWebDude/" target="_blank">View Site</a></td>
+  </tr>
+  <tr>
+    <td><b>Ch3Activity</b></td>
+    <td>Chapter 3 Assignment</td>
+    <td><a href="https://olympicc1.github.io/CIS-155/Ch3Activity/" target="_blank">View Site</a></td>
+  </tr>
+  <tr>
+    <td><b>Chapter 3, Part 2 Exercise Code</b></td>
+    <td>Additional Practice Work (includes images)</td>
+    <td><a href="https://olympicc1.github.io/CIS-155/Chapter%203,%20Part%202%20Exercise%20Code/" target="_blank">View Site</a></td>
+  </tr>
+</table>
 
-## Live Project Links
+---
 
-| Project | Description | Live Page |
-
-
-| **Ch2Activity** | Chapter 2 Assignment | [View Site](https://olympicc1.github.io/CIS-155/Ch2Activity/) |
-|ALWAYS | Module 3 Project | [View Site](https://olympicc1.github.io/CIS-155/ALWAYS/) |
-| **Ch2createWebDude** | Module 3 Extension — “Web Dude” Site | [View Site](https://olympicc1.github.io/CIS-155/Ch2createWebDude/) |
-| **Ch3Activity** | Chapter 3 Assignment | [View Site](https://olympicc1.github.io/CIS-155/Ch3Activity/) |
-| **Chapter 3, Part 2 Exercise Code** | Additional Practice Work (includes images) | [View Site](https://olympicc1.github.io/CIS-155/Chapter%203,%20Part%202%20Exercise%20Code/) |
-
-
-
-## Repository Structure
+<h3 align="center">Repository Structure</h3>
 
