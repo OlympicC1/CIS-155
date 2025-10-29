@@ -1,14 +1,16 @@
 <p align="center">
-  <img src="../beaut.2.jpg" alt="Beautiful Digital Journey" width="1000">
+  <img src="beaut.2.jpg" alt="Beautiful Digital Journey" width="1000">
 </p>
+
 <p align="center">
   <img src="assets/tagline.svg" alt="Signature Tagline Animation" width="100%">
 </p>
 
-<br>
+<hr style="width:60%;border:0;border-top:1px solid #444;margin:20px auto;">
 
 <p align="center">
-  <b><span style="color:#00bfff;">I don’t chase perfect!</span> <span style="color:#ffcc33;">I chase what works.</span></b><br>
+  <b><span style="color:#00bfff;">I don’t chase perfect!</span> 
+  <span style="color:#ffcc33;">I chase what works.</span></b><br>
   <span style="color:#a9c9ff;">Trial, error, rebuild, repeat!</span><br>
   <span style="color:#8fd3fe;">If it’s broken, I’ll fix it, even if it’s just a light in the dark!</span><br>
   <span style="color:#c0c0c0;">This journey isn’t polished, it’s patched, tested, and running!</span><br>
