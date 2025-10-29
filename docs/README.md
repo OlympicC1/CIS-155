@@ -3,7 +3,7 @@
 ![Beautiful Banner](./beaut.2.jpg)
 
 This repository contains all coursework completed for the **CIS-155 Web Development** class at **Olympic College**.  
-Each assignment is stored in its own folder for organization and version control.
+Each assignment is organized in its own folder for clarity and version control.
 
 ---
 
@@ -19,7 +19,4 @@ Each assignment is stored in its own folder for organization and version control
 
 ---
 
-![Tagline](./tagline.svg)
-
-© 2025 **Crystal Lyn Reise**  
-*“We are the ArchiTechs of the Digital Frontier.”*
+![Tagline](./t)
